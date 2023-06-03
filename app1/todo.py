@@ -13,7 +13,7 @@ while True:
     user_action = user_action.strip()
 
     if user_action.startswith('add'):
-        todo = user_action[4:] + '\n'
+        todo = user_action[4:]
         # todo = input("Enter the todo:-") + "\n"
 
         todos = get_todos()
