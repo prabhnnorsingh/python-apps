@@ -1,5 +1,5 @@
 # Functions of to-do.py.
-FILEPATH = "todos.txt"
+FILEPATH = "C:\\Users\\prabhnoor singh\\PycharmProjects\\pythonProject\\app1\\todos.txt"
 def get_todos(filepath=FILEPATH):
     """Reads the text file and returns the list of to-do items"""
     with open(filepath, 'r') as file_local:
