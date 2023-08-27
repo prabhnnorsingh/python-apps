@@ -1,3 +1,5 @@
 clean
 sleep
 cook
+washing
+hitting
