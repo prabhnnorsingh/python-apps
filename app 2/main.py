@@ -11,7 +11,10 @@ with col1:
 
 with col2:
     st.title("Prabhnoor singh")
-    content = "Hi I am Prabhnoor Singh! I am a Python Developer and my other skills include - " \
-              "|| Data Science - Jupyter notebook || DBMS - Mysql and Mongodb || Ethical Hacking - Penetration tester || Debater and Public Speaker. "
+    content = """Hi I am Prabhnoor Singh! I am a Python Developer and my other skills include - 
+              || Data Science - Jupyter notebook || DBMS - Mysql and Mongodb || Ethical Hacking - Penetration tester || C++ Basics || Debater and Public Speaker. """
     st.info(content)
+
+content2 = """Below you can find some of the apps I have built in python. Feel free to contact me!"""
+st.write(content2)
 
