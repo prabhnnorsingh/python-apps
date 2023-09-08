@@ -24,3 +24,11 @@ for article in content["articles"][:20]:
 
 body = body.encode("utf-8")
 send_email(message=body)
+
+
+
+
+# IMPORTANT INFORMATION !!!!!!
+
+# We can use PythonAnywhere to host web apps and also to run a particular python code or app everyday or however we want.
+# Watch the video 259 of python course to learn it.
